@@ -1,0 +1,5 @@
+// Created by Swarup Mahato
+
+alert("Hello Everyone!👋\nWelcome to my Marvelous project\n♎WhatsApp Clone♎ I hope you are doing well👌 This project is for you and my further experience in coding field, this project is one of the best project I have ever made in my life, as I took a long time doing it, This project took 4-5 days working on it, i worked hard alot to keep you entertained, if you like it please upvote and subscribe my new Youtube Channel for more hot videos.");
+alert("🤖FEATURES:🤖\n\n1: CHATS\n2: STATUS\n3: CALLS\n4: VIEW STATUS\n5: VIEW PROFILE PICTURE\n6: CHAT WITH PEOPLE\n7: CAMERA E.T.C\n\n🥶WATCH TUTORIAL ON YOUTUBE🥶\nhttps://youtu.be/wUkAHCLbam4\n\nCONTACT ME\nhttps://wa.me/2349017872620");
+alert("Please and Please🙏 Subscribe my new Youtube Channel\nhttps://youtube.com/channel/UCwgapk4VgPyTSH3Dqn2twvg");
